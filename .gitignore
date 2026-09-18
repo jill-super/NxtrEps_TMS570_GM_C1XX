@@ -1,0 +1,12 @@
+# Build outputs
+docs/dist/
+docs/.astro/
+
+# Dependencies
+docs/node_modules/
+
+# OS / editor artefacts
+.DS_Store
+Thumbs.db
+*~
+*.swp
